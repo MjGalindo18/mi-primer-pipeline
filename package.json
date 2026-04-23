@@ -4,8 +4,10 @@
   "description": "Taller DevOps - Universidad El Bosque",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js",
   "test": "jest"
 },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MjGalindo18/mi-primer-pipeline.git"
